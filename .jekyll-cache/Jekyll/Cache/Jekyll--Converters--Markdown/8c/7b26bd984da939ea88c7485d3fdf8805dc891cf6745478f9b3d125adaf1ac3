@@ -1,0 +1,21 @@
+I"¬<h2 id="web-design">Web Design</h2>
+<div class="wrap">
+            <div class="box">
+                <div class="boxInner">
+                    <img src="img\projects\gates-website.PNG" />
+                    <div class="titleBox">
+                        gatesnfences.com redesign
+                    </div>
+                </div>
+            </div>
+            <div class="box">
+                <div class="boxInner">
+                    <img src="img\projects\NSBC-website.PNG" />
+                    <div class="titleBox">
+                        Nelson Small Business Collective website design
+                    </div>
+                </div>
+            </div>
+        </div>
+
+:ET
