@@ -1,0 +1,12 @@
+.image-div{
+    float:left;
+    margin-right:10px;
+    margin-bottom: 10px;
+    max-width: 20%;
+    max-height: 20%;
+  }
+
+h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
