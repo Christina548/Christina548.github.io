@@ -23,6 +23,6 @@ background: '/img/Projects.jpg'
 
 <h2>Previous Work</h2>
 ### Kaitiaki Taonga at Te Papa
-### Collection Manager at Katherin Mansfield House
+### Collection Manager at Katherine Mansfield House
 ### Outreach Project Lead at Founders Heritage Park
          
