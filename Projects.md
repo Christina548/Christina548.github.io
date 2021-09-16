@@ -4,25 +4,25 @@ title: Projects
 description: Past and present work
 background: '/img/Projects.jpg'
 ---
-<h2>Web Design and Development</h2>
+<h2 style="color:#0a8e93;">Web Design and Development Projects:</h2>
 
 <h3>Gatesnfences.com redesign</h3>
 <div class="wrap">
             <div class="box">
                 <div class="boxInner">
-                    <img src="img\projects\gates-website.PNG" style="width:100%;height:100%;"/>
+                    <img src="img\projects\gates-website.PNG" style="width:100%;height:100%; margin-top: 20px; margin-bottom: 20px"/>
                 </div>
             </div>
 <h3>Nelson Small Business Collective website design</h3>
             <div class="box">
                 <div class="boxInner">
-                    <img src="img\projects\NSBC-website.PNG" style="width:100%;height:300px;"/>
+                    <img src="img\projects\NSBC-website.PNG" style="width:100%;height:300px; margin-top: 20px; margin-bottom: 20px"/>
                 </div>
             </div>
         </div>
 
-<h2>Previous Work</h2>
-### Kaitiaki Taonga at Te Papa
-### Collection Manager at Katherine Mansfield House
-### Outreach Project Lead at Founders Heritage Park
+<h2 style="color:#0a8e93;">Previous Work:</h2>
+#### Kaitiaki Taonga at Te Papa
+#### Collection Manager at Katherine Mansfield House
+#### Outreach Project Lead at Founders Heritage Park
          
