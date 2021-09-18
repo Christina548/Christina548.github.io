@@ -4,6 +4,7 @@ title: Projects
 description: Past and present work
 background: '/img/Projects.jpg'
 ---
+
 <h2 style="color:#0a8e93;">Web Design and Development Projects:</h2>
 
 <h3>Gatesnfences.com redesign</h3>
